@@ -1,8 +1,6 @@
 # manasa-ai-pm-portfolio
 Manasa Tadipathri AI Product Manager Portfolio
 
-Hi, 
-I'm Manasa, an aspiriing AI PM. 
 
 My work blends:
 	•	Strong Product & Business Analysis (CBAP, PSPO)
