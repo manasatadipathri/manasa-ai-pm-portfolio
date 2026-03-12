@@ -1,92 +1,33 @@
-# manasa-ai-pm-portfolio
-Manasa Tadipathri AI Product Manager Portfolio
+# Hi, I'm Manasa Tadipathri 👋
 
+Product Manager | AI Enthusiast | Data Science Learner
 
-My work blends:
-	•	Strong Product & Business Analysis (CBAP, PSPO)
-	•	Hands-on technical learning (Python, SQL, APIs, Kafka, AWS)
-	•	AI/LLM strategy + practical prototyping
-	•	End-to-end product ownership
+## About Me
 
-This portfolio showcases real AI-driven PM projects based on my experience as a BA/PO and my ongoing data/ML upskilling.
+- CBAP & PSPO Certified
+- AI Product Management
+- Building AI & Data Science projects
+- 📍Sydney / Bangalore
 
-🚀 AI PM Projects (Live & In Progress)
+## Skills
 
-1. Smart Requirements Analyzer (AI BA Assistant) (In Progress)
+Python  
+SQL  
+Machine Learning  
+LangChain  
+Product Strategy  
 
-An LLM-powered tool that converts raw BRDs/SRS documents into structured requirements, user stories, acceptance criteria, and dependency maps.
+## Projects
 
-✔ BA + AI combination
-✔ PM workflow automation
-✔ Real-world enterprise problem
+AI Job Application Agent  
+Study Planner AI  
+Customer Feedback Analyzer  
 
-👉 /projects/ai-requirements-analyzer
+## Writing
 
-⸻
+Medium:  
+https://medium.com/@manasatadipathri
 
-2. AI API Quality Inspector (Postman + LLM) (Planned)
+## Connect With Me
 
-AI tool that analyzes API collections, identifies errors, inconsistencies, and auto-generates documentation + test cases.
-
-👉 /projects/api-quality-inspector
-
-⸻
-
-3. Kafka Intelligence Dashboard (AI Log Analyzer) (Planned)
-
-AI summarizer for Kafka logs → highlights failures, lag patterns, anomalies, and root cause clues.
-
-👉 /projects/kafka-intel-dashboard
-
-⸻
-
-4. Smart Product Strategy Generator (Mini Project)
-
-Given a product idea, it generates strategy → KPIs → roadmap → risks → GTM.
-
-👉 /projects/product-strategy-generator
-
-⸻
-
-🔧 Skills
-
-Product:
-	•	Roadmapping, KPIs, OKRs, PRDs
-	•	User stories, acceptance criteria
-	•	Prioritization frameworks
-	•	Agile (PSPO Certified)
-
-AI/Technical:
-	•	LLMs, Prompt Engineering, RAG basics
-	•	Python, SQL
-	•	Postman API testing
-	•	Kafka (learning)
-	•	AWS & Cloud fundamentals
-	•	Data Engineering concepts
-
-Tools: GitHub, Postman, Jupyter, AWS, Jira, Figma
-
-⸻
-
-🗂️ Portfolio Roadmap
-	•	Create repo
-	•	Publish Smart Requirements Analyzer
-	•	Add architecture diagrams
-	•	Add API Inspector project
-	•	Add Kafka Analyzer
-	•	Create Medium article series on “My AI PM Portfolio Journey”
-
-⸻
-
-✉️ Contact
-	•	Medium: https://medium.com/@manasatadipathri
-	•	GitHub: https://github.com/manasatadipathri
-  •	LinkedIn: 
-http://linkedin.com/in/manasatadipathri
-  •	Kaggle: 
-https://www.kaggle.com/manasatadipathri
-  •	Notion:
-https://potent-work-463.notion.site/Hi-I-m-Manasa-I-m-a-Sr-Product-manager-AI-Data-Digital-2998e062d7b3805f8136f45c98163ed6?source=copy_link
-
-  
-
+GitHub: https://github.com/manasatadipathri
